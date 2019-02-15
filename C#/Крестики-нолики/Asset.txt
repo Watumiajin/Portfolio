@@ -1,0 +1,3 @@
+firstMove=true
+randomAII=true
+auto-update=false

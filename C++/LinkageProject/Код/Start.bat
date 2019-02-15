@@ -1,0 +1,1 @@
+LinkageProject.exe -c:"Configuration.xml"

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+	<Verbosity>1</Verbosity>
+	<Output>C:\TFS\MSBuildTest\Build\Test.sln</Output>
+	
+	<Exclusions>
+		<Exclusion Type="TypeGuid">{xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}</Exclusion>
+		<Exclusion Type="TypeGuid">{xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}</Exclusion>
+		<Exclusion Type="ProjectGuid">{xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}</Exclusion>
+	</Exclusions>
+	
+	<Dependencies>
+		<Dependence Type="Global">{xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}</Dependence>
+		<Dependence Type="LocalPrj">{xxxxx-xxxxx-xxxxx-xxxxx-xxxxx} > {xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}</Dependence>
+		<Dependence Type="LocalPrj">{xxxxx-xxxxx-xxxxx-xxxxx-xxxxx} > {xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}</Dependence>
+		<Dependence Type="LocalConf">{xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}.Release|x86 > {xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}.Release|Win32</Dependence>
+		<Dependence Type="LocalConf">{xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}.Release|x86 > {xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}.Release|Win32</Dependence>
+		<Dependence Type="LocalConf">{xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}.Release|x86 > {xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}.ReleaseLocal|x86</Dependence>
+		<Dependence Type="LocalConf">{xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}.Release|x64 > {xxxxx-xxxxx-xxxxx-xxxxx-xxxxx}.ReleaseLocal|x64</Dependence>
+	</Dependencies>
+	
+	<Inputs>
+		<Sln Path="C:\xxxxx\BuildTest\xxxx\Product.sln">
+			<Config>Release Step1|Win32</Config>
+			<Config>Release Step2|Win32</Config>
+			<Config>Release Step1|x64</Config>
+			<Config>Release Step2|x64</Config>
+		</Sln>
+		<Sln Path="C:\xxxxxx\BuildTest\xxxxx\xx\xxxx.sln">
+			<Config>Release|Win32</Config>
+			<Config>Static Release|Win32</Config>
+			<Config>Release|x64</Config>
+			<Config>Static Release|x64</Config>
+		</Sln>
+
+	</Inputs>
+	
+	<Search>
+		<Path></Path>
+	</Search>
+</Configuration>
