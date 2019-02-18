@@ -1,0 +1,20 @@
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart file hunter\Smart_file_hunter\bin\Debug\Smart_Search.exe.config
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart file hunter\Smart_file_hunter\bin\Debug\Smart_Search.exe
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart file hunter\Smart_file_hunter\bin\Debug\Smart_Search.pdb
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart file hunter\Smart_file_hunter\obj\Debug\Smart_File_Hunter.csprojResolveAssemblyReference.cache
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart file hunter\Smart_file_hunter\obj\Debug\Smart_file_hunter.Form_Main.resources
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart file hunter\Smart_file_hunter\obj\Debug\Smart_Search.Properties.Resources.resources
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart file hunter\Smart_file_hunter\obj\Debug\Smart_File_Hunter.csproj.GenerateResource.cache
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart file hunter\Smart_file_hunter\obj\Debug\Smart_File_Hunter.csproj.CoreCompileInputs.cache
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart file hunter\Smart_file_hunter\obj\Debug\Smart_Search.exe
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart file hunter\Smart_file_hunter\obj\Debug\Smart_Search.pdb
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart-file-hunter\Smart_file_hunter\bin\Debug\Smart_Search.exe.config
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart-file-hunter\Smart_file_hunter\bin\Debug\Smart_Search.exe
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart-file-hunter\Smart_file_hunter\bin\Debug\Smart_Search.pdb
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart-file-hunter\Smart_file_hunter\obj\Debug\Smart_File_Hunter.csprojResolveAssemblyReference.cache
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart-file-hunter\Smart_file_hunter\obj\Debug\Smart_file_hunter.Form_Main.resources
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart-file-hunter\Smart_file_hunter\obj\Debug\Smart_Search.Properties.Resources.resources
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart-file-hunter\Smart_file_hunter\obj\Debug\Smart_File_Hunter.csproj.GenerateResource.cache
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart-file-hunter\Smart_file_hunter\obj\Debug\Smart_File_Hunter.csproj.CoreCompileInputs.cache
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart-file-hunter\Smart_file_hunter\obj\Debug\Smart_Search.exe
+C:\Users\Watumiajin\Desktop\Неистовый кодинг\C#\Smart-file-hunter\Smart_file_hunter\obj\Debug\Smart_Search.pdb
